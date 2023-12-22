@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1703263472839,3239,HTTP Request,200,OK,Users100 1-72,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131492,343,100,100,https://www.avana.ru/,76,0,34
+1703263472839,76,HTTP Request-0,301,Moved Permanently,Users100 1-72,text,true,,178,113,100,100,http://avana.ru/,76,0,34
+1703263472916,2690,HTTP Request-1,302,Found,Users100 1-72,,true,,420,113,100,100,https://avana.ru/,2690,0,2091
+1703263475607,471,HTTP Request-2,200,OK,Users100 1-72,text,true,,130894,117,100,100,https://www.avana.ru/,410,0,180
+1703263472400,4391,HTTP Request,200,OK,Users100 1-28,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131492,343,99,99,https://www.avana.ru/,127,0,67
+1703263472400,127,HTTP Request-0,301,Moved Permanently,Users100 1-28,text,true,,178,113,99,99,http://avana.ru/,127,0,67
+1703263472528,3270,HTTP Request-1,302,Found,Users100 1-28,,true,,420,113,99,99,https://avana.ru/,3270,0,2615
+1703263475799,992,HTTP Request-2,200,OK,Users100 1-28,text,true,,130894,117,99,99,https://www.avana.ru/,855,0,98
+1703263472420,4397,HTTP Request,200,OK,Users100 1-30,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131492,343,98,98,https://www.avana.ru/,88,0,38
+1703263472420,96,HTTP Request-0,301,Moved Permanently,Users100 1-30,text,true,,178,113,98,98,http://avana.ru/,88,0,38
+1703263472520,3206,HTTP Request-1,302,Found,Users100 1-30,,true,,420,113,98,98,https://avana.ru/,3206,0,2488
+1703263475728,1089,HTTP Request-2,200,OK,Users100 1-30,text,true,,130894,117,98,98,https://www.avana.ru/,971,0,257
+1703263472320,4551,HTTP Request,200,OK,Users100 1-20,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131492,343,97,97,https://www.avana.ru/,193,0,140
+1703263472320,196,HTTP Request-0,301,Moved Permanently,Users100 1-20,text,true,,178,113,97,97,http://avana.ru/,193,0,140
+1703263472520,3302,HTTP Request-1,302,Found,Users100 1-20,,true,,420,113,97,97,https://avana.ru/,3302,0,3062
+1703263475823,1048,HTTP Request-2,200,OK,Users100 1-20,text,true,,130894,117,97,97,https://www.avana.ru/,954,0,244
+1703263472560,4749,HTTP Request,200,OK,Users100 1-44,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,96,96,https://www.avana.ru/,70,0,32
+1703263472560,70,HTTP Request-0,301,Moved Permanently,Users100 1-44,text,true,,178,113,96,96,http://avana.ru/,70,0,32
+1703263472631,3172,HTTP Request-1,302,Found,Users100 1-44,,true,,420,113,96,96,https://avana.ru/,3172,0,2403
+1703263475804,1505,HTTP Request-2,200,OK,Users100 1-44,text,true,,130901,117,96,96,https://www.avana.ru/,1263,0,232
+1703263472540,4769,HTTP Request,200,OK,Users100 1-42,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,96,96,https://www.avana.ru/,66,0,31
+1703263472540,66,HTTP Request-0,301,Moved Permanently,Users100 1-42,text,true,,178,113,96,96,http://avana.ru/,66,0,31
+1703263472607,3196,HTTP Request-1,302,Found,Users100 1-42,,true,,420,113,96,96,https://avana.ru/,3196,0,2387
+1703263475804,1505,HTTP Request-2,200,OK,Users100 1-42,text,true,,130901,117,96,96,https://www.avana.ru/,1260,0,229
+1703263472361,5278,HTTP Request,200,OK,Users100 1-24,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,94,94,https://www.avana.ru/,154,0,106
+1703263472361,155,HTTP Request-0,301,Moved Permanently,Users100 1-24,text,true,,178,113,94,94,http://avana.ru/,154,0,106
+1703263472519,3288,HTTP Request-1,302,Found,Users100 1-24,,true,,420,113,94,94,https://avana.ru/,3288,0,2509
+1703263475808,1831,HTTP Request-2,200,OK,Users100 1-24,text,true,,130901,117,94,94,https://www.avana.ru/,1670,0,257
+1703263472890,4937,HTTP Request,200,OK,Users100 1-77,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,93,93,https://www.avana.ru/,67,0,32
+1703263472890,67,HTTP Request-0,301,Moved Permanently,Users100 1-77,text,true,,178,113,93,93,http://avana.ru/,67,0,32
+1703263472958,2845,HTTP Request-1,302,Found,Users100 1-77,,true,,420,113,93,93,https://avana.ru/,2845,0,2112
+1703263475804,2023,HTTP Request-2,200,OK,Users100 1-77,text,true,,130901,117,93,93,https://www.avana.ru/,1933,0,245
+1703263472650,5179,HTTP Request,200,OK,Users100 1-53,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,92,92,https://www.avana.ru/,85,0,39
+1703263472650,85,HTTP Request-0,301,Moved Permanently,Users100 1-53,text,true,,178,113,92,92,http://avana.ru/,85,0,39
+1703263472735,3085,HTTP Request-1,302,Found,Users100 1-53,,true,,420,113,92,92,https://avana.ru/,3085,0,2967
+1703263475821,2008,HTTP Request-2,200,OK,Users100 1-53,text,true,,130901,117,92,92,https://www.avana.ru/,1919,0,570
+1703263473009,4834,HTTP Request,200,OK,Users100 1-89,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,91,91,https://www.avana.ru/,74,0,30
+1703263473009,74,HTTP Request-0,301,Moved Permanently,Users100 1-89,text,true,,178,113,91,91,http://avana.ru/,74,0,30
+1703263473083,2831,HTTP Request-1,302,Found,Users100 1-89,,true,,420,113,91,91,https://avana.ru/,2831,0,2710
+1703263475915,1928,HTTP Request-2,200,OK,Users100 1-89,text,true,,130901,117,91,91,https://www.avana.ru/,1828,0,566
+1703263472571,5279,HTTP Request,200,OK,Users100 1-45,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,90,90,https://www.avana.ru/,59,0,27
+1703263472571,59,HTTP Request-0,301,Moved Permanently,Users100 1-45,text,true,,178,113,90,90,http://avana.ru/,59,0,27
+1703263472631,3163,HTTP Request-1,302,Found,Users100 1-45,,true,,420,113,90,90,https://avana.ru/,3163,0,2375
+1703263475795,2055,HTTP Request-2,200,OK,Users100 1-45,text,true,,130901,117,90,90,https://www.avana.ru/,1943,0,230
+1703263472880,5690,HTTP Request,200,OK,Users100 1-76,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,89,89,https://www.avana.ru/,69,0,32
+1703263472880,69,HTTP Request-0,301,Moved Permanently,Users100 1-76,text,true,,178,113,89,89,http://avana.ru/,69,0,32
+1703263472950,2854,HTTP Request-1,302,Found,Users100 1-76,,true,,420,113,89,89,https://avana.ru/,2854,0,2069
+1703263475805,2765,HTTP Request-2,200,OK,Users100 1-76,text,true,,130901,117,89,89,https://www.avana.ru/,2652,0,257
+1703263472340,6256,HTTP Request,200,OK,Users100 1-22,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,88,88,https://www.avana.ru/,171,0,125
+1703263472340,176,HTTP Request-0,301,Moved Permanently,Users100 1-22,text,true,,178,113,88,88,http://avana.ru/,171,0,125
+1703263472524,3417,HTTP Request-1,302,Found,Users100 1-22,,true,,420,113,88,88,https://avana.ru/,3417,0,3188
+1703263475941,2655,HTTP Request-2,200,OK,Users100 1-22,text,true,,130901,117,88,88,https://www.avana.ru/,2541,0,607
+1703263473059,5556,HTTP Request,200,OK,Users100 1-94,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,87,87,https://www.avana.ru/,105,0,45
+1703263473059,105,HTTP Request-0,301,Moved Permanently,Users100 1-94,text,true,,178,113,87,87,http://avana.ru/,105,0,45
+1703263473165,2755,HTTP Request-1,302,Found,Users100 1-94,,true,,420,113,87,87,https://avana.ru/,2755,0,2552
+1703263475921,2694,HTTP Request-2,200,OK,Users100 1-94,text,true,,130901,117,87,87,https://www.avana.ru/,2559,0,603
+1703263472800,5889,HTTP Request,200,OK,Users100 1-68,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,86,86,https://www.avana.ru/,73,0,34
+1703263472800,73,HTTP Request-0,301,Moved Permanently,Users100 1-68,text,true,,178,113,86,86,http://avana.ru/,73,0,34
+1703263472874,2940,HTTP Request-1,302,Found,Users100 1-68,,true,,420,113,86,86,https://avana.ru/,2940,0,2200
+1703263475816,2873,HTTP Request-2,200,OK,Users100 1-68,text,true,,130901,117,86,86,https://www.avana.ru/,2741,0,729
+1703263472590,6269,HTTP Request,200,OK,Users100 1-47,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,85,85,https://www.avana.ru/,73,0,33
+1703263472590,73,HTTP Request-0,301,Moved Permanently,Users100 1-47,text,true,,178,113,85,85,http://avana.ru/,73,0,33
+1703263472663,3155,HTTP Request-1,302,Found,Users100 1-47,,true,,420,113,85,85,https://avana.ru/,3155,0,3040
+1703263475825,3034,HTTP Request-2,200,OK,Users100 1-47,text,true,,130901,117,85,85,https://www.avana.ru/,2934,0,251
+1703263473089,5796,HTTP Request,200,OK,Users100 1-97,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,84,84,https://www.avana.ru/,82,0,40
+1703263473089,82,HTTP Request-0,301,Moved Permanently,Users100 1-97,text,true,,178,113,84,84,http://avana.ru/,82,0,40
+1703263473172,2644,HTTP Request-1,302,Found,Users100 1-97,,true,,420,113,84,84,https://avana.ru/,2644,0,1939
+1703263475822,3063,HTTP Request-2,200,OK,Users100 1-97,text,true,,130901,117,84,84,https://www.avana.ru/,2935,0,861
+1703263472680,6225,HTTP Request,200,OK,Users100 1-56,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,83,83,https://www.avana.ru/,62,0,31
+1703263472680,63,HTTP Request-0,301,Moved Permanently,Users100 1-56,text,true,,178,113,83,83,http://avana.ru/,62,0,31
+1703263472743,3064,HTTP Request-1,302,Found,Users100 1-56,,true,,420,113,83,83,https://avana.ru/,3064,0,2318
+1703263475808,3097,HTTP Request-2,200,OK,Users100 1-56,text,true,,130901,117,83,83,https://www.avana.ru/,2959,0,672
+1703263472291,6755,HTTP Request,200,OK,Users100 1-11,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,82,82,https://www.avana.ru/,219,0,175
+1703263472291,225,HTTP Request-0,301,Moved Permanently,Users100 1-11,text,true,,178,113,82,82,http://avana.ru/,219,0,175
+1703263472520,3301,HTTP Request-1,302,Found,Users100 1-11,,true,,420,113,82,82,https://avana.ru/,3301,0,3247
+1703263475821,3225,HTTP Request-2,200,OK,Users100 1-11,text,true,,130901,117,82,82,https://www.avana.ru/,3118,0,665
+1703263472441,6689,HTTP Request,200,OK,Users100 1-32,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,81,81,https://www.avana.ru/,77,0,33
+1703263472441,77,HTTP Request-0,301,Moved Permanently,Users100 1-32,text,true,,178,113,81,81,http://avana.ru/,77,0,33
+1703263472521,3426,HTTP Request-1,302,Found,Users100 1-32,,true,,420,113,81,81,https://avana.ru/,3426,0,3250
+1703263475947,3183,HTTP Request-2,200,OK,Users100 1-32,text,true,,130901,117,81,81,https://www.avana.ru/,3088,0,611
+1703263472291,6870,HTTP Request,200,OK,Users100 1-5,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,80,80,https://www.avana.ru/,217,0,170
+1703263472291,224,HTTP Request-0,301,Moved Permanently,Users100 1-5,text,true,,178,113,80,80,http://avana.ru/,217,0,170
+1703263472523,3298,HTTP Request-1,302,Found,Users100 1-5,,true,,420,113,80,80,https://avana.ru/,3298,0,3106
+1703263475827,3334,HTTP Request-2,200,OK,Users100 1-5,text,true,,130901,117,80,80,https://www.avana.ru/,3208,0,853
+1703263473019,6410,HTTP Request,200,OK,Users100 1-90,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,79,79,https://www.avana.ru/,96,0,36
+1703263473019,96,HTTP Request-0,301,Moved Permanently,Users100 1-90,text,true,,178,113,79,79,http://avana.ru/,96,0,36
+1703263473116,2701,HTTP Request-1,302,Found,Users100 1-90,,true,,420,113,79,79,https://avana.ru/,2701,0,2622
+1703263475826,3603,HTTP Request-2,200,OK,Users100 1-90,text,true,,130901,117,79,79,https://www.avana.ru/,3506,0,873
+1703263472639,6916,HTTP Request,200,OK,Users100 1-52,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,78,78,https://www.avana.ru/,75,0,36
+1703263472639,75,HTTP Request-0,301,Moved Permanently,Users100 1-52,text,true,,178,113,78,78,http://avana.ru/,75,0,36
+1703263472715,3099,HTTP Request-1,302,Found,Users100 1-52,,true,,420,113,78,78,https://avana.ru/,3099,0,2841
+1703263475816,3739,HTTP Request-2,200,OK,Users100 1-52,text,true,,130901,117,78,78,https://www.avana.ru/,3640,0,876
+1703263472350,7231,HTTP Request,200,OK,Users100 1-23,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,77,77,https://www.avana.ru/,158,0,112
+1703263472350,166,HTTP Request-0,301,Moved Permanently,Users100 1-23,text,true,,178,113,77,77,http://avana.ru/,158,0,112
+1703263472521,3289,HTTP Request-1,302,Found,Users100 1-23,,true,,420,113,77,77,https://avana.ru/,3289,0,3214
+1703263475811,3770,HTTP Request-2,200,OK,Users100 1-23,text,true,,130901,117,77,77,https://www.avana.ru/,3675,0,882
+1703263472629,6964,HTTP Request,200,OK,Users100 1-51,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,76,76,https://www.avana.ru/,76,0,31
+1703263472629,76,HTTP Request-0,301,Moved Permanently,Users100 1-51,text,true,,178,113,76,76,http://avana.ru/,76,0,31
+1703263472705,3112,HTTP Request-1,302,Found,Users100 1-51,,true,,420,113,76,76,https://avana.ru/,3112,0,2568
+1703263475826,3767,HTTP Request-2,200,OK,Users100 1-51,text,true,,130901,117,76,76,https://www.avana.ru/,3667,0,881
+1703263472291,7302,HTTP Request,200,OK,Users100 1-3,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,76,76,https://www.avana.ru/,218,0,174
+1703263472291,224,HTTP Request-0,301,Moved Permanently,Users100 1-3,text,true,,178,113,76,76,http://avana.ru/,218,0,174
+1703263472520,3301,HTTP Request-1,302,Found,Users100 1-3,,true,,420,113,76,76,https://avana.ru/,3301,0,3111
+1703263475827,3766,HTTP Request-2,200,OK,Users100 1-3,text,true,,130901,117,76,76,https://www.avana.ru/,3664,0,865
+1703263472380,7276,HTTP Request,200,OK,Users100 1-26,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,74,74,https://www.avana.ru/,126,0,78
+1703263472380,136,HTTP Request-0,301,Moved Permanently,Users100 1-26,text,true,,178,113,74,74,http://avana.ru/,126,0,78
+1703263472521,3300,HTTP Request-1,302,Found,Users100 1-26,,true,,420,113,74,74,https://avana.ru/,3300,0,2985
+1703263475822,3834,HTTP Request-2,200,OK,Users100 1-26,text,true,,130901,117,74,74,https://www.avana.ru/,3748,0,871
+1703263473099,6640,HTTP Request,200,OK,Users100 1-98,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,73,73,https://www.avana.ru/,73,0,34
+1703263473099,73,HTTP Request-0,301,Moved Permanently,Users100 1-98,text,true,,178,113,73,73,http://avana.ru/,73,0,34
+1703263473172,2744,HTTP Request-1,302,Found,Users100 1-98,,true,,420,113,73,73,https://avana.ru/,2744,0,2626
+1703263475916,3823,HTTP Request-2,200,OK,Users100 1-98,text,true,,130901,117,73,73,https://www.avana.ru/,3726,0,813
+1703263472950,6965,HTTP Request,200,OK,Users100 1-83,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,72,72,https://www.avana.ru/,65,0,31
+1703263472950,65,HTTP Request-0,301,Moved Permanently,Users100 1-83,text,true,,178,113,72,72,http://avana.ru/,65,0,31
+1703263473016,2803,HTTP Request-1,302,Found,Users100 1-83,,true,,420,113,72,72,https://avana.ru/,2803,0,2565
+1703263475819,4096,HTTP Request-2,200,OK,Users100 1-83,text,true,,130901,117,72,72,https://www.avana.ru/,4013,0,892
+1703263472480,7492,HTTP Request,200,OK,Users100 1-36,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,71,71,https://www.avana.ru/,74,0,32
+1703263472480,74,HTTP Request-0,301,Moved Permanently,Users100 1-36,text,true,,178,113,71,71,http://avana.ru/,74,0,32
+1703263472555,3256,HTTP Request-1,302,Found,Users100 1-36,,true,,420,113,71,71,https://avana.ru/,3256,0,3151
+1703263475811,4161,HTTP Request-2,200,OK,Users100 1-36,text,true,,130901,117,71,71,https://www.avana.ru/,4065,0,950
+1703263472410,7565,HTTP Request,200,OK,Users100 1-29,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,70,70,https://www.avana.ru/,101,0,55
+1703263472410,106,HTTP Request-0,301,Moved Permanently,Users100 1-29,text,true,,178,113,70,70,http://avana.ru/,101,0,55
+1703263472519,3395,HTTP Request-1,302,Found,Users100 1-29,,true,,420,113,70,70,https://avana.ru/,3395,0,3253
+1703263475914,4061,HTTP Request-2,200,OK,Users100 1-29,text,true,,130901,117,70,70,https://www.avana.ru/,3964,0,813
+1703263472909,7233,HTTP Request,200,OK,Users100 1-79,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,69,69,https://www.avana.ru/,68,0,32
+1703263472909,68,HTTP Request-0,301,Moved Permanently,Users100 1-79,text,true,,178,113,69,69,http://avana.ru/,68,0,32
+1703263472978,2904,HTTP Request-1,302,Found,Users100 1-79,,true,,420,113,69,69,https://avana.ru/,2904,0,2746
+1703263475882,4260,HTTP Request-2,200,OK,Users100 1-79,text,true,,130901,117,69,69,https://www.avana.ru/,4173,0,887
+1703263472311,8027,HTTP Request,200,OK,Users100 1-19,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,68,68,https://www.avana.ru/,197,0,154
+1703263472311,205,HTTP Request-0,301,Moved Permanently,Users100 1-19,text,true,,178,113,68,68,http://avana.ru/,197,0,154
+1703263472522,3342,HTTP Request-1,302,Found,Users100 1-19,,true,,420,113,68,68,https://avana.ru/,3342,0,3138
+1703263475865,4473,HTTP Request-2,200,OK,Users100 1-19,text,true,,130901,117,68,68,https://www.avana.ru/,4380,0,883
+1703263472620,7772,HTTP Request,200,OK,Users100 1-50,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,67,67,https://www.avana.ru/,72,0,35
+1703263472620,72,HTTP Request-0,301,Moved Permanently,Users100 1-50,text,true,,178,113,67,67,http://avana.ru/,72,0,35
+1703263472693,3121,HTTP Request-1,302,Found,Users100 1-50,,true,,420,113,67,67,https://avana.ru/,3121,0,2306
+1703263475815,4577,HTTP Request-2,200,OK,Users100 1-50,text,true,,130901,117,67,67,https://www.avana.ru/,4436,0,889
+1703263472330,8067,HTTP Request,200,OK,Users100 1-21,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,66,66,https://www.avana.ru/,178,0,130
+1703263472330,186,HTTP Request-0,301,Moved Permanently,Users100 1-21,text,true,,178,113,66,66,http://avana.ru/,178,0,130
+1703263472520,3302,HTTP Request-1,302,Found,Users100 1-21,,true,,420,113,66,66,https://avana.ru/,3302,0,2482
+1703263475826,4571,HTTP Request-2,200,OK,Users100 1-21,text,true,,130901,117,66,66,https://www.avana.ru/,4424,0,859
+1703263472790,7609,HTTP Request,200,OK,Users100 1-67,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,65,65,https://www.avana.ru/,72,0,33
+1703263472790,72,HTTP Request-0,301,Moved Permanently,Users100 1-67,text,true,,178,113,65,65,http://avana.ru/,72,0,33
+1703263472863,2947,HTTP Request-1,302,Found,Users100 1-67,,true,,420,113,65,65,https://avana.ru/,2947,0,2893
+1703263475811,4588,HTTP Request-2,200,OK,Users100 1-67,text,true,,130901,117,65,65,https://www.avana.ru/,4441,0,964
+1703263472549,7959,HTTP Request,200,OK,Users100 1-43,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,64,64,https://www.avana.ru/,68,0,31
+1703263472549,69,HTTP Request-0,301,Moved Permanently,Users100 1-43,text,true,,178,113,64,64,http://avana.ru/,68,0,31
+1703263472618,3329,HTTP Request-1,302,Found,Users100 1-43,,true,,420,113,64,64,https://avana.ru/,3329,0,3108
+1703263475948,4560,HTTP Request-2,200,OK,Users100 1-43,text,true,,130901,117,64,64,https://www.avana.ru/,4424,0,842
+1703263472525,7992,HTTP Request,200,OK,Users100 1-39,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,63,63,https://www.avana.ru/,70,0,32
+1703263472525,70,HTTP Request-0,301,Moved Permanently,Users100 1-39,text,true,,178,113,63,63,http://avana.ru/,70,0,32
+1703263472596,3284,HTTP Request-1,302,Found,Users100 1-39,,true,,420,113,63,63,https://avana.ru/,3284,0,3077
+1703263475880,4637,HTTP Request-2,200,OK,Users100 1-39,text,true,,130901,117,63,63,https://www.avana.ru/,4492,0,935
+1703263472580,8068,HTTP Request,200,OK,Users100 1-46,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,62,62,https://www.avana.ru/,60,0,28
+1703263472580,60,HTTP Request-0,301,Moved Permanently,Users100 1-46,text,true,,178,113,62,62,http://avana.ru/,60,0,28
+1703263472640,3181,HTTP Request-1,302,Found,Users100 1-46,,true,,420,113,62,62,https://avana.ru/,3181,0,2929
+1703263475826,4822,HTTP Request-2,200,OK,Users100 1-46,text,true,,130901,117,62,62,https://www.avana.ru/,4731,0,883
+1703263472921,7780,HTTP Request,200,OK,Users100 1-80,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,61,61,https://www.avana.ru/,77,0,32
+1703263472921,77,HTTP Request-0,301,Moved Permanently,Users100 1-80,text,true,,178,113,61,61,http://avana.ru/,77,0,32
+1703263472999,2811,HTTP Request-1,302,Found,Users100 1-80,,true,,420,113,61,61,https://avana.ru/,2811,0,2694
+1703263475811,4890,HTTP Request-2,200,OK,Users100 1-80,text,true,,130901,117,61,61,https://www.avana.ru/,4779,0,1012
+1703263472291,8480,HTTP Request,200,OK,Users100 1-14,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,60,60,https://www.avana.ru/,216,0,174
+1703263472291,225,HTTP Request-0,301,Moved Permanently,Users100 1-14,text,true,,178,113,60,60,http://avana.ru/,216,0,174
+1703263472523,3393,HTTP Request-1,302,Found,Users100 1-14,,true,,420,113,60,60,https://avana.ru/,3393,0,3277
+1703263475918,4853,HTTP Request-2,200,OK,Users100 1-14,text,true,,130901,117,60,60,https://www.avana.ru/,4706,0,592
+1703263472291,8484,HTTP Request,200,OK,Users100 1-1,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,59,59,https://www.avana.ru/,220,0,172
+1703263472291,224,HTTP Request-0,301,Moved Permanently,Users100 1-1,text,true,,178,113,59,59,http://avana.ru/,220,0,172
+1703263472524,3324,HTTP Request-1,302,Found,Users100 1-1,,true,,420,113,59,59,https://avana.ru/,3324,0,3253
+1703263475848,4927,HTTP Request-2,200,OK,Users100 1-1,text,true,,130901,117,59,59,https://www.avana.ru/,4777,0,965
+1703263472300,8625,HTTP Request,200,OK,Users100 1-18,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,58,58,https://www.avana.ru/,206,0,158
+1703263472300,216,HTTP Request-0,301,Moved Permanently,Users100 1-18,text,true,,178,113,58,58,http://avana.ru/,206,0,158
+1703263472523,3291,HTTP Request-1,302,Found,Users100 1-18,,true,,420,113,58,58,https://avana.ru/,3291,0,3075
+1703263475815,5110,HTTP Request-2,200,OK,Users100 1-18,text,true,,130901,117,58,58,https://www.avana.ru/,4979,0,1035
+1703263472930,8214,HTTP Request,200,OK,Users100 1-81,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,57,57,https://www.avana.ru/,72,0,31
+1703263472930,72,HTTP Request-0,301,Moved Permanently,Users100 1-81,text,true,,178,113,57,57,http://avana.ru/,72,0,31
+1703263473003,2929,HTTP Request-1,302,Found,Users100 1-81,,true,,420,113,57,57,https://avana.ru/,2929,0,2676
+1703263475932,5212,HTTP Request-2,200,OK,Users100 1-81,text,true,,130901,117,57,57,https://www.avana.ru/,5052,0,844
+1703263473079,8073,HTTP Request,200,OK,Users100 1-96,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,56,56,https://www.avana.ru/,92,0,35
+1703263473079,92,HTTP Request-0,301,Moved Permanently,Users100 1-96,text,true,,178,113,56,56,http://avana.ru/,92,0,35
+1703263473172,2638,HTTP Request-1,302,Found,Users100 1-96,,true,,420,113,56,56,https://avana.ru/,2638,0,1822
+1703263475811,5341,HTTP Request-2,200,OK,Users100 1-96,text,true,,130901,117,56,56,https://www.avana.ru/,5225,0,976
+1703263472960,8230,HTTP Request,200,OK,Users100 1-84,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,55,55,https://www.avana.ru/,75,0,35
+1703263472960,75,HTTP Request-0,301,Moved Permanently,Users100 1-84,text,true,,178,113,55,55,http://avana.ru/,75,0,35
+1703263473036,2844,HTTP Request-1,302,Found,Users100 1-84,,true,,420,113,55,55,https://avana.ru/,2844,0,2679
+1703263475881,5309,HTTP Request-2,200,OK,Users100 1-84,text,true,,130901,117,55,55,https://www.avana.ru/,5160,0,981
+1703263472599,8594,HTTP Request,200,OK,Users100 1-48,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,54,54,https://www.avana.ru/,59,0,27
+1703263472599,59,HTTP Request-0,301,Moved Permanently,Users100 1-48,text,true,,178,113,54,54,http://avana.ru/,59,0,27
+1703263472659,3162,HTTP Request-1,302,Found,Users100 1-48,,true,,420,113,54,54,https://avana.ru/,3162,0,2972
+1703263475822,5371,HTTP Request-2,200,OK,Users100 1-48,text,true,,130901,117,54,54,https://www.avana.ru/,5253,0,845
+1703263472291,8928,HTTP Request,200,OK,Users100 1-2,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,53,53,https://www.avana.ru/,223,0,173
+1703263472291,224,HTTP Request-0,301,Moved Permanently,Users100 1-2,text,true,,178,113,53,53,http://avana.ru/,223,0,173
+1703263472524,3293,HTTP Request-1,302,Found,Users100 1-2,,true,,420,113,53,53,https://avana.ru/,3293,0,2478
+1703263475817,5402,HTTP Request-2,200,OK,Users100 1-2,text,true,,130901,117,53,53,https://www.avana.ru/,5292,0,849
+1703263472760,8475,HTTP Request,200,OK,Users100 1-64,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,52,52,https://www.avana.ru/,104,0,53
+1703263472760,104,HTTP Request-0,301,Moved Permanently,Users100 1-64,text,true,,178,113,52,52,http://avana.ru/,104,0,53
+1703263472865,2952,HTTP Request-1,302,Found,Users100 1-64,,true,,420,113,52,52,https://avana.ru/,2952,0,2134
+1703263475825,5410,HTTP Request-2,200,OK,Users100 1-64,text,true,,130901,117,52,52,https://www.avana.ru/,5253,0,847
+1703263472710,8652,HTTP Request,200,OK,Users100 1-59,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,51,51,https://www.avana.ru/,69,0,32
+1703263472710,69,HTTP Request-0,301,Moved Permanently,Users100 1-59,text,true,,178,113,51,51,http://avana.ru/,69,0,32
+1703263472780,3101,HTTP Request-1,302,Found,Users100 1-59,,true,,420,113,51,51,https://avana.ru/,3101,0,3022
+1703263475882,5480,HTTP Request-2,200,OK,Users100 1-59,text,true,,130901,117,51,51,https://www.avana.ru/,5371,0,992
+1703263472689,8708,HTTP Request,200,OK,Users100 1-57,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,50,50,https://www.avana.ru/,80,0,42
+1703263472689,80,HTTP Request-0,301,Moved Permanently,Users100 1-57,text,true,,178,113,50,50,http://avana.ru/,80,0,42
+1703263472770,3058,HTTP Request-1,302,Found,Users100 1-57,,true,,420,113,50,50,https://avana.ru/,3058,0,2990
+1703263475829,5568,HTTP Request-2,200,OK,Users100 1-57,text,true,,130901,117,50,50,https://www.avana.ru/,5425,0,986
+1703263473002,8558,HTTP Request,200,OK,Users100 1-88,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,49,49,https://www.avana.ru/,78,0,37
+1703263473002,78,HTTP Request-0,301,Moved Permanently,Users100 1-88,text,true,,178,113,49,49,http://avana.ru/,78,0,37
+1703263473081,2740,HTTP Request-1,302,Found,Users100 1-88,,true,,420,113,49,49,https://avana.ru/,2740,0,2400
+1703263475821,5739,HTTP Request-2,200,OK,Users100 1-88,text,true,,130901,117,49,49,https://www.avana.ru/,5641,0,831
+1703263472779,8967,HTTP Request,200,OK,Users100 1-66,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,48,48,https://www.avana.ru/,84,0,35
+1703263472779,84,HTTP Request-0,301,Moved Permanently,Users100 1-66,text,true,,178,113,48,48,http://avana.ru/,84,0,35
+1703263472864,2956,HTTP Request-1,302,Found,Users100 1-66,,true,,420,113,48,48,https://avana.ru/,2956,0,2866
+1703263475823,5923,HTTP Request-2,200,OK,Users100 1-66,text,true,,130901,117,48,48,https://www.avana.ru/,5830,0,855
+1703263472509,9248,HTTP Request,200,OK,Users100 1-38,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,47,47,https://www.avana.ru/,78,0,33
+1703263472509,78,HTTP Request-0,301,Moved Permanently,Users100 1-38,text,true,,178,113,47,47,http://avana.ru/,78,0,33
+1703263472588,3227,HTTP Request-1,302,Found,Users100 1-38,,true,,420,113,47,47,https://avana.ru/,3227,0,2410
+1703263475815,5942,HTTP Request-2,200,OK,Users100 1-38,text,true,,130901,117,47,47,https://www.avana.ru/,5820,0,825
+1703263472290,9494,HTTP Request,200,OK,Users100 1-8,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,46,46,https://www.avana.ru/,216,0,174
+1703263472290,225,HTTP Request-0,301,Moved Permanently,Users100 1-8,text,true,,178,113,46,46,http://avana.ru/,216,0,174
+1703263472523,3291,HTTP Request-1,302,Found,Users100 1-8,,true,,420,113,46,46,https://avana.ru/,3291,0,3098
+1703263475814,5970,HTTP Request-2,200,OK,Users100 1-8,text,true,,130901,117,46,46,https://www.avana.ru/,5842,0,1021
+1703263472291,9495,HTTP Request,200,OK,Users100 1-9,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,45,45,https://www.avana.ru/,214,0,170
+1703263472291,224,HTTP Request-0,301,Moved Permanently,Users100 1-9,text,true,,178,113,45,45,http://avana.ru/,214,0,170
+1703263472519,3301,HTTP Request-1,302,Found,Users100 1-9,,true,,420,113,45,45,https://avana.ru/,3301,0,2550
+1703263475822,5964,HTTP Request-2,200,OK,Users100 1-9,text,true,,130901,117,45,45,https://www.avana.ru/,5835,0,843
+1703263472530,9523,HTTP Request,200,OK,Users100 1-41,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,44,44,https://www.avana.ru/,71,0,36
+1703263472530,71,HTTP Request-0,301,Moved Permanently,Users100 1-41,text,true,,178,113,44,44,http://avana.ru/,71,0,36
+1703263472601,3218,HTTP Request-1,302,Found,Users100 1-41,,true,,420,113,44,44,https://avana.ru/,3218,0,3153
+1703263475819,6234,HTTP Request-2,200,OK,Users100 1-41,text,true,,130901,117,44,44,https://www.avana.ru/,6135,0,614
+1703263472749,9381,HTTP Request,200,OK,Users100 1-63,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,43,43,https://www.avana.ru/,77,0,37
+1703263472749,78,HTTP Request-0,301,Moved Permanently,Users100 1-63,text,true,,178,113,43,43,http://avana.ru/,77,0,37
+1703263472827,2990,HTTP Request-1,302,Found,Users100 1-63,,true,,420,113,43,43,https://avana.ru/,2990,0,2308
+1703263475827,6303,HTTP Request-2,200,OK,Users100 1-63,text,true,,130901,117,43,43,https://www.avana.ru/,6160,0,591
+1703263472809,9331,HTTP Request,200,OK,Users100 1-69,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,42,42,https://www.avana.ru/,89,0,49
+1703263472809,89,HTTP Request-0,301,Moved Permanently,Users100 1-69,text,true,,178,113,42,42,http://avana.ru/,89,0,49
+1703263472899,2913,HTTP Request-1,302,Found,Users100 1-69,,true,,420,113,42,42,https://avana.ru/,2913,0,2105
+1703263475813,6327,HTTP Request-2,200,OK,Users100 1-69,text,true,,130901,117,42,42,https://www.avana.ru/,6223,0,1029
+1703263472290,9976,HTTP Request,200,OK,Users100 1-6,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,41,41,https://www.avana.ru/,235,0,175
+1703263472290,235,HTTP Request-0,301,Moved Permanently,Users100 1-6,text,true,,178,113,41,41,http://avana.ru/,235,0,175
+1703263472527,3294,HTTP Request-1,302,Found,Users100 1-6,,true,,420,113,41,41,https://avana.ru/,3294,0,3033
+1703263475823,6443,HTTP Request-2,200,OK,Users100 1-6,text,true,,130901,117,41,41,https://www.avana.ru/,6355,0,277
+1703263472969,9312,HTTP Request,200,OK,Users100 1-85,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,40,40,https://www.avana.ru/,61,0,29
+1703263472969,61,HTTP Request-0,301,Moved Permanently,Users100 1-85,text,true,,178,113,40,40,http://avana.ru/,61,0,29
+1703263473031,2783,HTTP Request-1,302,Found,Users100 1-85,,true,,420,113,40,40,https://avana.ru/,2783,0,2533
+1703263475816,6465,HTTP Request-2,200,OK,Users100 1-85,text,true,,130901,117,40,40,https://www.avana.ru/,6366,0,586
+1703263472477,9916,HTTP Request,200,OK,Users100 1-35,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,39,39,https://www.avana.ru/,77,0,33
+1703263472477,77,HTTP Request-0,301,Moved Permanently,Users100 1-35,text,true,,178,113,39,39,http://avana.ru/,77,0,33
+1703263472555,3253,HTTP Request-1,302,Found,Users100 1-35,,true,,420,113,39,39,https://avana.ru/,3253,0,2442
+1703263475808,6585,HTTP Request-2,200,OK,Users100 1-35,text,true,,130901,117,39,39,https://www.avana.ru/,6463,0,325
+1703263472860,9608,HTTP Request,200,OK,Users100 1-74,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,38,38,https://www.avana.ru/,70,0,32
+1703263472860,70,HTTP Request-0,301,Moved Permanently,Users100 1-74,text,true,,178,113,38,38,http://avana.ru/,70,0,32
+1703263472931,2879,HTTP Request-1,302,Found,Users100 1-74,,true,,420,113,38,38,https://avana.ru/,2879,0,2764
+1703263475811,6657,HTTP Request-2,200,OK,Users100 1-74,text,true,,130901,117,38,38,https://www.avana.ru/,6541,0,335
+1703263473109,9374,HTTP Request,200,OK,Users100 1-99,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,37,37,https://www.avana.ru/,81,0,50
+1703263473109,81,HTTP Request-0,301,Moved Permanently,Users100 1-99,text,true,,178,113,37,37,http://avana.ru/,81,0,50
+1703263473191,2623,HTTP Request-1,302,Found,Users100 1-99,,true,,420,113,37,37,https://avana.ru/,2623,0,2253
+1703263475815,6668,HTTP Request-2,200,OK,Users100 1-99,text,true,,130901,117,37,37,https://www.avana.ru/,6539,0,631
+1703263473049,9449,HTTP Request,200,OK,Users100 1-93,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,36,36,https://www.avana.ru/,115,0,55
+1703263473049,115,HTTP Request-0,301,Moved Permanently,Users100 1-93,text,true,,178,113,36,36,http://avana.ru/,115,0,55
+1703263473165,2638,HTTP Request-1,302,Found,Users100 1-93,,true,,420,113,36,36,https://avana.ru/,2638,0,1857
+1703263475804,6694,HTTP Request-2,200,OK,Users100 1-93,text,true,,130901,117,36,36,https://www.avana.ru/,6552,0,208
+1703263472459,10127,HTTP Request,200,OK,Users100 1-34,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,35,35,https://www.avana.ru/,70,0,31
+1703263472459,70,HTTP Request-0,301,Moved Permanently,Users100 1-34,text,true,,178,113,35,35,http://avana.ru/,70,0,31
+1703263472530,3282,HTTP Request-1,302,Found,Users100 1-34,,true,,420,113,35,35,https://avana.ru/,3282,0,2512
+1703263475813,6773,HTTP Request-2,200,OK,Users100 1-34,text,true,,130901,117,35,35,https://www.avana.ru/,6674,0,471
+1703263473121,9715,HTTP Request,200,OK,Users100 1-100,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,34,34,https://www.avana.ru/,69,0,39
+1703263473121,69,HTTP Request-0,301,Moved Permanently,Users100 1-100,text,true,,178,113,34,34,http://avana.ru/,69,0,39
+1703263473191,2691,HTTP Request-1,302,Found,Users100 1-100,,true,,420,113,34,34,https://avana.ru/,2691,0,2458
+1703263475882,6954,HTTP Request-2,200,OK,Users100 1-100,text,true,,130901,117,34,34,https://www.avana.ru/,6812,0,712
+1703263473030,9828,HTTP Request,200,OK,Users100 1-91,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,33,33,https://www.avana.ru/,85,0,32
+1703263473030,85,HTTP Request-0,301,Moved Permanently,Users100 1-91,text,true,,178,113,33,33,http://avana.ru/,85,0,32
+1703263473116,2776,HTTP Request-1,302,Found,Users100 1-91,,true,,420,113,33,33,https://avana.ru/,2776,0,2682
+1703263475893,6965,HTTP Request-2,200,OK,Users100 1-91,text,true,,130901,117,33,33,https://www.avana.ru/,6860,0,744
+1703263472292,10568,HTTP Request,200,OK,Users100 1-10,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,32,32,https://www.avana.ru/,224,0,173
+1703263472292,224,HTTP Request-0,301,Moved Permanently,Users100 1-10,text,true,,178,113,32,32,http://avana.ru/,224,0,173
+1703263472521,3293,HTTP Request-1,302,Found,Users100 1-10,,true,,420,113,32,32,https://avana.ru/,3293,0,2479
+1703263475816,7044,HTTP Request-2,200,OK,Users100 1-10,text,true,,130901,117,32,32,https://www.avana.ru/,6938,0,370
+1703263472979,9926,HTTP Request,200,OK,Users100 1-86,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,31,31,https://www.avana.ru/,71,0,31
+1703263472979,71,HTTP Request-0,301,Moved Permanently,Users100 1-86,text,true,,178,113,31,31,http://avana.ru/,71,0,31
+1703263473051,2766,HTTP Request-1,302,Found,Users100 1-86,,true,,420,113,31,31,https://avana.ru/,2766,0,2697
+1703263475827,7078,HTTP Request-2,200,OK,Users100 1-86,text,true,,130901,117,31,31,https://www.avana.ru/,6930,0,385
+1703263473040,9898,HTTP Request,200,OK,Users100 1-92,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,30,30,https://www.avana.ru/,75,0,37
+1703263473040,75,HTTP Request-0,301,Moved Permanently,Users100 1-92,text,true,,178,113,30,30,http://avana.ru/,75,0,37
+1703263473116,2704,HTTP Request-1,302,Found,Users100 1-92,,true,,420,113,30,30,https://avana.ru/,2704,0,2522
+1703263475826,7112,HTTP Request-2,200,OK,Users100 1-92,text,true,,130901,117,30,30,https://www.avana.ru/,6980,0,456
+1703263472989,10021,HTTP Request,200,OK,Users100 1-87,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,29,29,https://www.avana.ru/,78,0,43
+1703263472989,78,HTTP Request-0,301,Moved Permanently,Users100 1-87,text,true,,178,113,29,29,http://avana.ru/,78,0,43
+1703263473068,2747,HTTP Request-1,302,Found,Users100 1-87,,true,,420,113,29,29,https://avana.ru/,2747,0,2628
+1703263475816,7194,HTTP Request-2,200,OK,Users100 1-87,text,true,,130901,117,29,29,https://www.avana.ru/,7060,0,259
+1703263472525,10579,HTTP Request,200,OK,Users100 1-40,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,28,28,https://www.avana.ru/,70,0,36
+1703263472525,70,HTTP Request-0,301,Moved Permanently,Users100 1-40,text,true,,178,113,28,28,http://avana.ru/,70,0,36
+1703263472596,3209,HTTP Request-1,302,Found,Users100 1-40,,true,,420,113,28,28,https://avana.ru/,3209,0,2417
+1703263475805,7299,HTTP Request-2,200,OK,Users100 1-40,text,true,,130901,117,28,28,https://www.avana.ru/,7181,0,240
+1703263472830,10289,HTTP Request,200,OK,Users100 1-71,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,27,27,https://www.avana.ru/,66,0,33
+1703263472830,66,HTTP Request-0,301,Moved Permanently,Users100 1-71,text,true,,178,113,27,27,http://avana.ru/,66,0,33
+1703263472897,2986,HTTP Request-1,302,Found,Users100 1-71,,true,,420,113,27,27,https://avana.ru/,2986,0,2876
+1703263475886,7233,HTTP Request-2,200,OK,Users100 1-71,text,true,,130901,117,27,27,https://www.avana.ru/,7060,0,838
+1703263472659,10483,HTTP Request,200,OK,Users100 1-54,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,26,26,https://www.avana.ru/,89,0,46
+1703263472659,89,HTTP Request-0,301,Moved Permanently,Users100 1-54,text,true,,178,113,26,26,http://avana.ru/,89,0,46
+1703263472749,3071,HTTP Request-1,302,Found,Users100 1-54,,true,,420,113,26,26,https://avana.ru/,3071,0,2994
+1703263475824,7318,HTTP Request-2,200,OK,Users100 1-54,text,true,,130901,117,26,26,https://www.avana.ru/,7213,0,336
+1703263472370,10789,HTTP Request,200,OK,Users100 1-25,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,25,25,https://www.avana.ru/,139,0,94
+1703263472370,146,HTTP Request-0,301,Moved Permanently,Users100 1-25,text,true,,178,113,25,25,http://avana.ru/,139,0,94
+1703263472523,3295,HTTP Request-1,302,Found,Users100 1-25,,true,,420,113,25,25,https://avana.ru/,3295,0,2485
+1703263475819,7340,HTTP Request-2,200,OK,Users100 1-25,text,true,,130901,117,25,25,https://www.avana.ru/,7220,0,404
+1703263472939,10295,HTTP Request,200,OK,Users100 1-82,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,24,24,https://www.avana.ru/,63,0,30
+1703263472939,63,HTTP Request-0,301,Moved Permanently,Users100 1-82,text,true,,178,113,24,24,http://avana.ru/,63,0,30
+1703263473003,2809,HTTP Request-1,302,Found,Users100 1-82,,true,,420,113,24,24,https://avana.ru/,2809,0,2103
+1703263475814,7420,HTTP Request-2,200,OK,Users100 1-82,text,true,,130901,117,24,24,https://www.avana.ru/,7277,0,437
+1703263472389,10898,HTTP Request,200,OK,Users100 1-27,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,23,23,https://www.avana.ru/,127,0,78
+1703263472389,127,HTTP Request-0,301,Moved Permanently,Users100 1-27,text,true,,178,113,23,23,http://avana.ru/,127,0,78
+1703263472520,3284,HTTP Request-1,302,Found,Users100 1-27,,true,,420,113,23,23,https://avana.ru/,3284,0,2536
+1703263475805,7482,HTTP Request-2,200,OK,Users100 1-27,text,true,,130901,117,23,23,https://www.avana.ru/,7356,0,398
+1703263472292,11007,HTTP Request,200,OK,Users100 1-16,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,22,22,https://www.avana.ru/,217,0,168
+1703263472292,224,HTTP Request-0,301,Moved Permanently,Users100 1-16,text,true,,178,113,22,22,http://avana.ru/,217,0,168
+1703263472523,3294,HTTP Request-1,302,Found,Users100 1-16,,true,,420,113,22,22,https://avana.ru/,3294,0,2476
+1703263475826,7473,HTTP Request-2,200,OK,Users100 1-16,text,true,,130901,117,22,22,https://www.avana.ru/,7332,0,505
+1703263472698,10604,HTTP Request,200,OK,Users100 1-58,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,21,21,https://www.avana.ru/,71,0,33
+1703263472698,71,HTTP Request-0,301,Moved Permanently,Users100 1-58,text,true,,178,113,21,21,http://avana.ru/,71,0,33
+1703263472770,3049,HTTP Request-1,302,Found,Users100 1-58,,true,,420,113,21,21,https://avana.ru/,3049,0,2960
+1703263475824,7478,HTTP Request-2,200,OK,Users100 1-58,text,true,,130901,117,21,21,https://www.avana.ru/,7336,0,408
+1703263472869,10441,HTTP Request,200,OK,Users100 1-75,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,20,20,https://www.avana.ru/,80,0,35
+1703263472869,80,HTTP Request-0,301,Moved Permanently,Users100 1-75,text,true,,178,113,20,20,http://avana.ru/,80,0,35
+1703263472950,2863,HTTP Request-1,302,Found,Users100 1-75,,true,,420,113,20,20,https://avana.ru/,2863,0,2141
+1703263475813,7497,HTTP Request-2,200,OK,Users100 1-75,text,true,,130901,117,20,20,https://www.avana.ru/,7386,0,415
+1703263472292,11026,HTTP Request,200,OK,Users100 1-12,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,19,19,https://www.avana.ru/,214,0,168
+1703263472292,224,HTTP Request-0,301,Moved Permanently,Users100 1-12,text,true,,178,113,19,19,http://avana.ru/,214,0,168
+1703263472522,3296,HTTP Request-1,302,Found,Users100 1-12,,true,,420,113,19,19,https://avana.ru/,3296,0,3177
+1703263475818,7500,HTTP Request-2,200,OK,Users100 1-12,text,true,,130901,117,19,19,https://www.avana.ru/,7381,0,428
+1703263472291,11056,HTTP Request,200,OK,Users100 1-17,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,18,18,https://www.avana.ru/,217,0,169
+1703263472291,225,HTTP Request-0,301,Moved Permanently,Users100 1-17,text,true,,178,113,18,18,http://avana.ru/,217,0,169
+1703263472520,3301,HTTP Request-1,302,Found,Users100 1-17,,true,,420,113,18,18,https://avana.ru/,3301,0,3078
+1703263475822,7525,HTTP Request-2,200,OK,Users100 1-17,text,true,,130901,117,18,18,https://www.avana.ru/,7339,0,264
+1703263472720,10672,HTTP Request,200,OK,Users100 1-60,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,17,17,https://www.avana.ru/,59,0,26
+1703263472720,59,HTTP Request-0,301,Moved Permanently,Users100 1-60,text,true,,178,113,17,17,http://avana.ru/,59,0,26
+1703263472780,3048,HTTP Request-1,302,Found,Users100 1-60,,true,,420,113,17,17,https://avana.ru/,3048,0,3009
+1703263475829,7563,HTTP Request-2,200,OK,Users100 1-60,text,true,,130901,117,17,17,https://www.avana.ru/,7467,0,343
+1703263472770,10672,HTTP Request,200,OK,Users100 1-65,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,16,16,https://www.avana.ru/,92,0,44
+1703263472770,92,HTTP Request-0,301,Moved Permanently,Users100 1-65,text,true,,178,113,16,16,http://avana.ru/,92,0,44
+1703263472863,2958,HTTP Request-1,302,Found,Users100 1-65,,true,,420,113,16,16,https://avana.ru/,2958,0,2916
+1703263475827,7615,HTTP Request-2,200,OK,Users100 1-65,text,true,,130901,117,16,16,https://www.avana.ru/,7523,0,503
+1703263472431,11026,HTTP Request,200,OK,Users100 1-31,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,15,15,https://www.avana.ru/,86,0,36
+1703263472431,86,HTTP Request-0,301,Moved Permanently,Users100 1-31,text,true,,178,113,15,15,http://avana.ru/,86,0,36
+1703263472522,3295,HTTP Request-1,302,Found,Users100 1-31,,true,,420,113,15,15,https://avana.ru/,3295,0,3216
+1703263475826,7631,HTTP Request-2,200,OK,Users100 1-31,text,true,,130901,117,15,15,https://www.avana.ru/,7528,0,547
+1703263472730,10910,HTTP Request,200,OK,Users100 1-61,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,14,14,https://www.avana.ru/,88,0,31
+1703263472730,88,HTTP Request-0,301,Moved Permanently,Users100 1-61,text,true,,178,113,14,14,http://avana.ru/,88,0,31
+1703263472818,2995,HTTP Request-1,302,Found,Users100 1-61,,true,,420,113,14,14,https://avana.ru/,2995,0,2722
+1703263475813,7827,HTTP Request-2,200,OK,Users100 1-61,text,true,,130901,117,14,14,https://www.avana.ru/,7728,0,558
+1703263472669,11035,HTTP Request,200,OK,Users100 1-55,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,13,13,https://www.avana.ru/,62,0,32
+1703263472669,62,HTTP Request-0,301,Moved Permanently,Users100 1-55,text,true,,178,113,13,13,http://avana.ru/,62,0,32
+1703263472732,3083,HTTP Request-1,302,Found,Users100 1-55,,true,,420,113,13,13,https://avana.ru/,3083,0,2879
+1703263475815,7889,HTTP Request-2,200,OK,Users100 1-55,text,true,,130901,117,13,13,https://www.avana.ru/,7792,0,519
+1703263472818,10924,HTTP Request,200,OK,Users100 1-70,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,12,12,https://www.avana.ru/,80,0,40
+1703263472818,80,HTTP Request-0,301,Moved Permanently,Users100 1-70,text,true,,178,113,12,12,http://avana.ru/,80,0,40
+1703263472899,2924,HTTP Request-1,302,Found,Users100 1-70,,true,,420,113,12,12,https://avana.ru/,2924,0,2098
+1703263475824,7918,HTTP Request-2,200,OK,Users100 1-70,text,true,,130901,117,12,12,https://www.avana.ru/,7823,0,517
+1703263472497,11251,HTTP Request,200,OK,Users100 1-37,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,11,11,https://www.avana.ru/,77,0,37
+1703263472497,77,HTTP Request-0,301,Moved Permanently,Users100 1-37,text,true,,178,113,11,11,http://avana.ru/,77,0,37
+1703263472575,3245,HTTP Request-1,302,Found,Users100 1-37,,true,,420,113,11,11,https://avana.ru/,3245,0,2912
+1703263475822,7926,HTTP Request-2,200,OK,Users100 1-37,text,true,,130901,117,11,11,https://www.avana.ru/,7828,0,531
+1703263472850,10919,HTTP Request,200,OK,Users100 1-73,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,10,10,https://www.avana.ru/,75,0,35
+1703263472850,75,HTTP Request-0,301,Moved Permanently,Users100 1-73,text,true,,178,113,10,10,http://avana.ru/,75,0,35
+1703263472925,2894,HTTP Request-1,302,Found,Users100 1-73,,true,,420,113,10,10,https://avana.ru/,2894,0,2619
+1703263475820,7949,HTTP Request-2,200,OK,Users100 1-73,text,true,,130901,117,10,10,https://www.avana.ru/,7832,0,528
+1703263472290,11496,HTTP Request,200,OK,Users100 1-7,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,9,9,https://www.avana.ru/,217,0,175
+1703263472290,225,HTTP Request-0,301,Moved Permanently,Users100 1-7,text,true,,178,113,9,9,http://avana.ru/,217,0,175
+1703263472521,4421,HTTP Request-1,302,Found,Users100 1-7,,true,,420,113,9,9,https://avana.ru/,4421,0,3528
+1703263476943,6843,HTTP Request-2,200,OK,Users100 1-7,text,true,,130901,117,9,9,https://www.avana.ru/,6754,0,125
+1703263472292,11497,HTTP Request,200,OK,Users100 1-15,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,8,8,https://www.avana.ru/,219,0,174
+1703263472292,224,HTTP Request-0,301,Moved Permanently,Users100 1-15,text,true,,178,113,8,8,http://avana.ru/,219,0,174
+1703263472521,3298,HTTP Request-1,302,Found,Users100 1-15,,true,,420,113,8,8,https://avana.ru/,3298,0,3123
+1703263475824,7965,HTTP Request-2,200,OK,Users100 1-15,text,true,,130901,117,8,8,https://www.avana.ru/,7827,0,473
+1703263472291,11502,HTTP Request,200,OK,Users100 1-4,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,7,7,https://www.avana.ru/,233,0,175
+1703263472291,233,HTTP Request-0,301,Moved Permanently,Users100 1-4,text,true,,178,113,7,7,http://avana.ru/,233,0,175
+1703263472526,3286,HTTP Request-1,302,Found,Users100 1-4,,true,,420,113,7,7,https://avana.ru/,3286,0,2480
+1703263475815,7978,HTTP Request-2,200,OK,Users100 1-4,text,true,,130901,117,7,7,https://www.avana.ru/,7838,0,457
+1703263473070,10731,HTTP Request,200,OK,Users100 1-95,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,6,6,https://www.avana.ru/,98,0,41
+1703263473070,98,HTTP Request-0,301,Moved Permanently,Users100 1-95,text,true,,178,113,6,6,http://avana.ru/,98,0,41
+1703263473169,2655,HTTP Request-1,302,Found,Users100 1-95,,true,,420,113,6,6,https://avana.ru/,2655,0,2492
+1703263475825,7976,HTTP Request-2,200,OK,Users100 1-95,text,true,,130901,117,6,6,https://www.avana.ru/,7872,0,552
+1703263472291,11511,HTTP Request,200,OK,Users100 1-13,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,6,6,https://www.avana.ru/,215,0,174
+1703263472291,225,HTTP Request-0,301,Moved Permanently,Users100 1-13,text,true,,178,113,6,6,http://avana.ru/,215,0,174
+1703263472524,3294,HTTP Request-1,302,Found,Users100 1-13,,true,,420,113,6,6,https://avana.ru/,3294,0,3263
+1703263475825,7977,HTTP Request-2,200,OK,Users100 1-13,text,true,,130901,117,6,6,https://www.avana.ru/,7876,0,485
+1703263472899,10923,HTTP Request,200,OK,Users100 1-78,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131492,343,4,4,https://www.avana.ru/,72,0,36
+1703263472899,72,HTTP Request-0,301,Moved Permanently,Users100 1-78,text,true,,178,113,4,4,http://avana.ru/,72,0,36
+1703263472972,2876,HTTP Request-1,302,Found,Users100 1-78,,true,,420,113,4,4,https://avana.ru/,2876,0,2740
+1703263475848,7974,HTTP Request-2,200,OK,Users100 1-78,text,true,,130894,117,4,4,https://www.avana.ru/,7886,0,337
+1703263472740,11098,HTTP Request,200,OK,Users100 1-62,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,3,3,https://www.avana.ru/,78,0,36
+1703263472740,78,HTTP Request-0,301,Moved Permanently,Users100 1-62,text,true,,178,113,3,3,http://avana.ru/,78,0,36
+1703263472818,2994,HTTP Request-1,302,Found,Users100 1-62,,true,,420,113,3,3,https://avana.ru/,2994,0,2936
+1703263475814,8024,HTTP Request-2,200,OK,Users100 1-62,text,true,,130901,117,3,3,https://www.avana.ru/,7881,0,1060
+1703263472450,11393,HTTP Request,200,OK,Users100 1-33,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,2,2,https://www.avana.ru/,69,0,32
+1703263472450,69,HTTP Request-0,301,Moved Permanently,Users100 1-33,text,true,,178,113,2,2,http://avana.ru/,69,0,32
+1703263472520,3308,HTTP Request-1,302,Found,Users100 1-33,,true,,420,113,2,2,https://avana.ru/,3308,0,2592
+1703263475829,8014,HTTP Request-2,200,OK,Users100 1-33,text,true,,130901,117,2,2,https://www.avana.ru/,7866,0,559
+1703263472610,11270,HTTP Request,200,OK,Users100 1-49,text,false,Test failed: text expected to contain /© 1994–2023 АВАНА./,131499,343,1,1,https://www.avana.ru/,70,0,34
+1703263472610,70,HTTP Request-0,301,Moved Permanently,Users100 1-49,text,true,,178,113,1,1,http://avana.ru/,70,0,34
+1703263472681,3136,HTTP Request-1,302,Found,Users100 1-49,,true,,420,113,1,1,https://avana.ru/,3136,0,3088
+1703263475818,8062,HTTP Request-2,200,OK,Users100 1-49,text,true,,130901,117,1,1,https://www.avana.ru/,7949,0,539
